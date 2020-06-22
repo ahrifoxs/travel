@@ -1,0 +1,331 @@
+// 此处是main.vue 组件中的样式
+.main
+  padding 106px 90px 100px 74px
+  background #f1f2f3
+  // margin-bottom 100px
+  
+  // 此处是header.vue 中的样式
+.header >>> .el-input__inner
+  height 33px
+  line-height 33px
+.header >>> .el-input__icon
+  height 110%
+.tangRight >>> .el-button
+  color $color
+  padding 0
+  background #f46
+  border none
+.header
+  position fixed
+  z-index 9
+  background $color
+  width $width
+  .contents
+    width $width
+    height 65px
+    padding 17px 0 15px 0
+    box-shadow 0 1px 1px #e0e0e0,0 1px 1px #cecfd0
+  .headerLogin
+    background rgba(0,0,0,0.2)
+    position fixed
+    width 100%
+    height 100%
+    z-index 99
+    .headerLoginOne
+      position absolute
+      left 50%
+      width 500px
+      height 300px
+      margin-left -250px
+      background $color
+  .tangLeft
+    display flex
+    // justify-content space-between
+    // flex-direction row
+    padding 0 0 0 4.9%
+    height 32px
+    line-height 32px
+    .tangInput
+      // width 608px
+      width 45%
+      height 32px
+      padding-left 4.9%
+      padding-right 12.2%
+      .search
+        height 33px !important
+        line-height 33px
+    .classify
+      width 8%
+      height 26px !important
+      font-size 12px
+      padding-left 2%
+    .tangRight
+      width 43%
+      text-align center
+    .tangRight ul li
+      float $left
+      padding 0 5.8%
+      height 32px
+      line-height 32px
+      color $darkTextColor
+      border-left 1px solid #ebebeb
+      cursor pointer
+    .tangRight ul li:nth-child(1) span
+      width 1%
+      color $color
+      background #ff4466
+      padding 1px 4px
+      border-radius 3px
+    .tangRight ul li:nth-child(2) span
+      width 1%
+      color $color
+      background #ff4466
+      padding 4px 13px
+      border-radius 3px
+// 这里是shopping.vue 组件中的样式
+.shopping
+  margin-top 36px
+  .albumLogo
+    margin-bottom 34px
+    .jingxuan
+      font-size 18px
+      // color red
+    .huigu
+      float right
+      color $color
+      width 80px
+      height 29px
+      line-height 29px
+      background #22b4f6
+      text-align center 
+
+  // 此处是Album.vue 组件中的样式
+.album
+  margin-top 36px
+  .albumLogo
+    margin-bottom 34px
+    .jingxuan
+      font-size 18px
+      // color red
+    .huigu
+      float right
+      color $color
+      width 80px
+      height 29px
+      line-height 29px
+      background #22b4f6
+      text-align center
+  .block
+    .blockOne
+      display inline-block
+      margin 0 17px 0 0
+      width 223px
+      height 328px
+      font-size 13px
+      background $color
+      .image img
+        width 100%
+        height 225px
+      .detail
+        margin-top 16px
+        padding 0 0 0 12px
+      .detail span
+        display block
+      .detail span:nth-child(1)
+        margin-bottom 31px
+      .detail span:nth-child(2)
+        color #888
+        margin-bottom 8px
+      .detail span:last-child
+        color #888
+  .block .blockOne:last-child
+    margin 0 0
+    display inline-block
+    width 223px
+    height 328px
+  .block .blockOne:hover
+    box-shadow 5px 5px 5px #cecece
+    position relative
+    top -5px
+
+  //  此处是communityHotspot.vue 中的样式
+.communityHotspot >>> .el-main
+  padding 0 20px
+.communityHotspot
+  padding 0 0 25px 0
+  border-bottom 1px solid #ccc
+  .swiper-img
+    width 745px
+    height 447px
+  .AsideOne
+    width 469px
+    height 447px
+    .aside
+      .sideTop
+        // width 469px
+        background $color
+        height 292px
+        padding 0 33px
+        margin-bottom 23px
+        .hotspot
+          // width 100%
+          height 53px
+          span
+            display block
+            // width 403px
+            height 53px
+            line-height 53px
+            // margin 0 33px
+            border-bottom 1px solid #ebebeb
+            font-size 16px
+            color #7d6695
+        .cold
+          margin 12px 0 12px 0
+          border-bottom 1px dashed #ebebeb
+          overflow auto
+          zoom 1
+        .cold:after
+            content ''
+            display block
+            clear both
+        .cold ul li
+          color #333
+          float left
+          margin 12px 0
+          padding 0 16px
+          border-right 1px solid #cecece
+          cursor pointer
+        .dress
+          clear both
+          padding 18px 0
+          border-bottom 1px solid #ebebeb
+        .helper
+          padding 18px 0
+      .sideButtom
+        width 469px
+        height 132px
+        img
+          width 469px
+          height 132px
+
+  // 此处是intelligent.vue 中的样式
+.intelligent
+  margin-top 36px
+  .albumLogo
+    margin-bottom 34px
+    .jingxuan
+      font-size 18px
+      // color red
+    .huigu
+      float right
+      color $color
+      width 80px
+      height 29px
+      line-height 29px
+      background #22b4f6
+      text-align center
+  .block
+    .blockOne
+      display inline-block
+      margin 0 17px 0 0
+      width 223px
+      height 328px
+      font-size 13px
+      background $color
+      .image img
+        width 100%
+        height 225px
+      .detail
+        margin-top 16px
+        padding 0 0 0 12px
+      .detail span
+        display block
+      .detail span:nth-child(1)
+        margin-bottom 31px
+      .detail span:nth-child(2)
+        color #888
+        margin-bottom 8px
+      .detail span:last-child
+        color #888
+  .block .blockOne:last-child
+    margin 0 0
+    display inline-block
+    width 223px
+    height 328px
+  .block .blockOne:hover
+    box-shadow 5px 5px 5px #cecece
+    position relative
+    top -5px
+
+    // 此处是product.vue 中的样式
+.product
+  margin-top 36px
+  .albumLogo
+    margin-bottom 34px
+    .jingxuan
+      font-size 18px
+      // color red
+    .huigu
+      float right
+      color $color
+      width 80px
+      height 29px
+      line-height 29px
+      background #22b4f6
+      text-align center
+  .block
+    .blockOne
+      display inline-block
+      margin 0 17px 0 0
+      width 223px
+      height 328px
+      font-size 13px
+      background $color
+      .image img
+        width 100%
+        height 225px
+      .detail
+        margin-top 16px
+        padding 0 0 0 12px
+      .detail span
+        display block
+      .detail span:nth-child(1)
+        margin-bottom 31px
+      .detail span:nth-child(2)
+        color #888
+        margin-bottom 8px
+      .detail span:last-child
+        color #888
+  .block .blockOne:last-child
+    margin 0 0
+    display inline-block
+    width 223px
+    height 328px
+  .block .blockOne:hover
+    box-shadow 5px 5px 5px #cecece
+    position relative
+    top -5px
+
+    // 这里是footer 页面的样式
+.footer
+  // margin-top: 20px;
+  padding: 20px 0;
+  line-height: 24px;
+  color: #999;
+  text-align: center;
+  background-color: #333;
+  .tangFooter
+    margin-right: auto;
+    margin-left: auto;
+    width: 1200px;
+  @media (max-width: 767px)
+    .tangFooter 
+      width: auto;
+  @media (max-width: 1024px) and (min-width: 768px){
+      .tangFooter {
+        width: 960px;
+      }
+    }
+
+
+    

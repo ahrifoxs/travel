@@ -1,0 +1,21 @@
+.waterfall {
+  -moz-column-width: 202px;
+  -o-column-width: 202px;
+  -webkit-column-width: 202px;
+  -ms-column-width: 202px;
+}
+.waterfall .box1 {
+  padding: 10px 0 0 15px;
+  height: auto;
+}
+.waterfall .pic {
+  border: 0px solid red;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+  width: 165px;
+}
+.waterfall img {
+  width: 165px;
+  height: auto;
+  display: block;
+}
