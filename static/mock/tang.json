@@ -1,0 +1,205 @@
+{
+  "ret": true,
+  "data": {
+      "tangHeaderList":{
+        "tangImg": "../../static/img/tang.png",
+        "home": "tang生活家",
+        "inew": "new",
+        "login": "注册",
+        "enter": "登录",
+        "phone": "手机版",
+        "inputValue": "",
+        "options": [{
+          "value": "选项1",
+          "label": "黄金糕"
+        }, {
+          "value": "选项2",
+          "label": "双皮奶"
+        }, {
+          "value": "选项3",
+          "label": "蚵仔煎"
+        }, {
+          "value": "选项4",
+          "label": "龙须面"
+        }, {
+          "value": "选项5",
+          "label": "北京烤鸭"
+        }],
+        "selectValue": ""
+    },
+    "communityHotspot": [{
+      "id": "0001",
+      "imgSrc": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1635551922,3834389190&fm=26&gp=0.jpg"
+    },
+    {
+      "id": "0002",
+      "imgSrc": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2953148368,2978545991&fm=26&gp=0.jpg"
+    },
+    {
+      "id": "0003",
+      "imgSrc": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=442268767,478276136&fm=26&gp=0.jpg"
+    },
+    {
+      "id": "0004",
+      "imgSrc": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3614521009,3410207576&fm=26&gp=0.jpg"
+    }],
+    "hotspotList": {
+      "hotspot": "社区热点",
+      "dress": "连衣裙",
+      "dressNew": "精选",
+      "helper": "收图助手：躺工夹具",
+      "sideButtomSrc": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2049712185,3720906080&fm=26&gp=0.jpg",
+      "cold": [{
+        "id": "0001",
+        "coldName": "你的名字"
+      },
+      {
+        "id": "0002",
+        "coldName": "非常先想想"
+      },
+      {
+        "id": "0003",
+        "coldName": "就是这么吊"
+      },
+      {
+        "id": "0004",
+        "coldName": "冬天"
+      },
+      {
+        "id": "0005",
+        "coldName": "冬天"
+      },{
+        "id": "0006",
+        "coldName": "冬天"
+      },{
+        "id": "0007",
+        "coldName": "冬天"
+      }]
+    },
+    "albumList": {
+      "jingxuan": "专辑精选",
+      "huigu": "往期回顾",
+      "blockOne": [{
+        "id": "0001",
+        "imgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573129511399&di=9c4e39a5aed28e017069c15b4f7f5fad&imgtype=0&src=http%3A%2F%2Fimg01.3dmgame.com%2Fuploads%2Fallimg%2F130417%2F153_130417091610_1.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },{
+        "id": "0002",
+        "imgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573129617159&di=240a796f6c529fe9a94fa406236bb7a6&imgtype=0&src=http%3A%2F%2Fphotocdn.sohu.com%2F20140912%2FImg404271517.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },
+      {
+        "id": "0003",
+        "imgSrc": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=716570309,3032304107&fm=15&gp=0.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },
+      {
+        "id": "0004",
+        "imgSrc": "http://f.01ny.cn/forum/201308/11/173240r2b2dwlhlbf7kfuf.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },
+      {
+        "id": "0005",
+        "imgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573724407&di=ae1beb744fd74eb936fcb2761fdf130d&imgtype=jpg&er=1&src=http%3A%2F%2Fn1.itc.cn%2Fimg8%2Fwb%2Fsmccloud%2Frecom%2F2015%2F09%2F18%2F144254218893140028.JPEG",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      }]
+    },
+    "productList": {
+      "jingxuan": "单品精选",
+      "huigu": "往期回顾",
+      "blockOne": [{
+        "id": "0001",
+        "imgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573129720258&di=d01b9b54d29b28d2cd12221f480c7fb5&imgtype=0&src=http%3A%2F%2Fs9.sinaimg.cn%2Fmiddle%2F5ebc2c37h9886e381a7e8%26690",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },{
+        "id": "0002",
+        "imgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573724474&di=ec5a047abb3be3b271d2448e8866eff2&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.cnyigui.com%2Ffile%2Fupload%2F201910%2F29%2F111854262991.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },
+      {
+        "id": "0003",
+        "imgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573129775953&di=b7db47bfaa0403d5721a6b15fdfb92e6&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F1%2F57ca6f550e7d3.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },
+      {
+        "id": "0004",
+        "imgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573129789576&di=a4f53d03604bdf608c0622d4e33a765a&imgtype=0&src=http%3A%2F%2Fimage.biaobaiju.com%2Fuploads%2F20180830%2F19%2F1535627346-TUmhrQdiVP.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },
+      {
+        "id": "0005",
+        "imgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573129809174&di=5e2655327d13caf94d950729fbe492bc&imgtype=0&src=http%3A%2F%2Fp4.so.qhmsg.com%2Ft012e631c0223ffeec4.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      }]
+    },
+    "intelligentList": {
+      "jingxuan": "达人推荐",
+      "huigu": "往期回顾",
+      "blockOne": [{
+        "id": "0001",
+        "imgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573724553&di=e530949d1ead368dba1b7c6f88b10a67&imgtype=jpg&er=1&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F4%2F5875f706ddfc8.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },{
+        "id": "0002",
+        "imgSrc": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=597084721,3636155609&fm=26&gp=0.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },
+      {
+        "id": "0003",
+        "imgSrc": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3717539207,499936500&fm=26&gp=0.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },
+      {
+        "id": "0004",
+        "imgSrc": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2995452472,1989268692&fm=26&gp=0.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      },
+      {
+        "id": "0005",
+        "imgSrc": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4154795860,3102055240&fm=26&gp=0.jpg",
+        "detailSpanOne": "你的书写工具需要一个庇护所",
+        "detailSpanTwo": "2222人收藏",
+        "detailSpanThree": "By bblloly"
+      }]
+    },
+    "shoppingList": {
+      "jingxuan": "单品精选",
+      "huigu": "往期回顾"
+    },
+    "fizzMainList": {
+      "list": ["张三丰", "独孤求败", "周伯通"],
+      "tabContents": [
+        "张三丰，名君宝，字符元，道号三丰。武林至尊，民族英雄 、内拳始祖、太极始祖、武学泰斗、龙行书法始祖张三丰集各派绝学于一身，威震武林，造诣已达炼虚合道至高极境 [1]  ，元末明初真人，武当山道人，武当派始祖，正史记载宋理宗淳佑七年(1247年) 出生辽东，14岁考取文武状元，18岁担任博陵县令，（1280年）辞官出家修道，拜火龙真人为师，武林盟主张三丰时隐时现，至今行踪不定，清朝道光年间曾出现在峨眉山。",
+        "独孤求败，自号“剑魔”，纵横江湖三十馀载，杀尽仇寇，败尽英雄，天下更无抗手，无可奈何，惟隐居深谷，以雕为友。呜呼，生平求一敌手而不可得，诚寂寥难堪也。在小说中从未出场过，只曾在人物的口中提及。",
+        "周伯通不是金大师小说中的主角，也不是塑造的最丰满、最完善的形象，更不是侠客或英雄的代表，而且就武侠小说最基本的要素-武功、武学所达到的境界来说，周伯通也不是绝顶高手，但毫无疑问，周伯通是金大师所塑造的所有人物中最有意思的一位，至少是最有意思的人物之一。"]
+    }
+  }
+}
